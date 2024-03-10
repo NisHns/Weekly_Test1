@@ -1,0 +1,16 @@
+.box {
+    width: 60%;
+    padding: 0.5rem;
+    margin-left: 20%;
+    background-color: orange;
+    border-radius: 2px solid;
+    margin-bottom: 1rem;
+}
+
+.pass {
+    margin-left: 40%;
+}
+
+.top {
+    margin-left: 20%;
+}
